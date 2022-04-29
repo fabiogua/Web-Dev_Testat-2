@@ -37,7 +37,6 @@
 
   <p align="center">
     project_description
-    <br />
     <a href="https://github.com/fabiogua/Web-Dev_Testat-2"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -116,7 +115,7 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Installation
-<hr/>
+<br/>
 1. Clone repository to /xampp/htdocs/
 <div align="center">
   <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
@@ -124,19 +123,19 @@ This is an example of how to list things you need to use the software and how to
   </a>
  </div>
  
- <hr/>
- <hr/>
+ <br/>
+ <br/>
 2. Replace index.php in /xampp/htdocs/
-  <hr/>
+ <br/>
 <div align="center">
   <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
     <img src="images/replace index-file.png" alt="Logo" width="50%">
   </a>
 </div>
-<hr/>
-<hr/>
+<br/>
+<br/>
 3. Start Apache and mySQL
-  <hr/>
+  <br/>
 <div align="center">
   <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
     <img src="images/start-xampp.png" alt="Logo" width="50%">
