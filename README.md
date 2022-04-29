@@ -32,8 +32,6 @@
     <img src="images/screenshot.png" alt="Logo" width="80%">
   </a>
 
-<h3 align="center">project_title</h3>
-
 </div>
 
 
