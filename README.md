@@ -121,21 +121,25 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/fabiogua/Web-Dev_Testat-2.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+1. Clone repository to /xampp/htdocs/
+<div align="center">
+  <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
+    <img src="images/github-clone-path.png" alt="Logo" width="80" height="80">
+  </a>
+ 
+2. Clone repository to /xampp/htdocs/
+  
+<div align="center">
+  <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
+    <img src="images/replace index-file.png" alt="Logo" width="80" height="80">
+  </a>
+  
+3. Clone repository to /xampp/htdocs/
+  
+<div align="center">
+  <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
+    <img src="images/start-xampp.png" alt="Logo" width="80" height="80">
+  </a>
 
 
 
