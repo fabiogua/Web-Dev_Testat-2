@@ -108,7 +108,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-[Install XAMPP](https://www.apachefriends.org/de/index.html)
+Install [XAMPP](https://www.apachefriends.org/de/index.html)
   
 
 ### Installation
