@@ -116,22 +116,27 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Installation
-
+<hr/>
 1. Clone repository to /xampp/htdocs/
 <div align="center">
   <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
     <img src="images/github-clone-path.png" alt="Logo" width="50%">
   </a>
  </div>
+ 
+ <hr/>
+ <hr/>
 2. Replace index.php in /xampp/htdocs/
-  
+  <hr/>
 <div align="center">
   <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
     <img src="images/replace index-file.png" alt="Logo" width="50%">
   </a>
 </div>
+<hr/>
+<hr/>
 3. Start Apache and mySQL
-  
+  <hr/>
 <div align="center">
   <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
     <img src="images/start-xampp.png" alt="Logo" width="50%">
