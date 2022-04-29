@@ -50,7 +50,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#Download Repository">Download Repository</a></li>
+        <li><a href="#download-repository">Download Repository</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
