@@ -92,14 +92,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [HTML]
+* [CSS]
+* [JavaScript]
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -126,21 +122,21 @@ This is an example of how to list things you need to use the software and how to
   <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
     <img src="images/github-clone-path.png" alt="Logo" width="50%">
   </a>
- 
+ </div>
 2. Replace index.php in /xampp/htdocs/
   
 <div align="center">
   <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
     <img src="images/replace index-file.png" alt="Logo" width="50%">
   </a>
-  
+</div>
 3. Start Apache and mySQL
   
 <div align="center">
   <a href="https://github.com/fabiogua/Web-Dev_Testat-2">
     <img src="images/start-xampp.png" alt="Logo" width="50%">
   </a>
-
+ </div>
 
 
 <!-- USAGE EXAMPLES -->
