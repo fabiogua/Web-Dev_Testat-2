@@ -52,11 +52,11 @@ h3 {
 
 h1 {
   font-weight: 400;
-  font-family: "Lobster";
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 45px;
   letter-spacing: 3px;
-  color: crimson;
-  border-bottom: 1px dashed crimson;
+  color: dodgerblue;
+  border-bottom: 1px dashed dodgerblue;
 }
 
 h2 {
@@ -107,25 +107,30 @@ img {
 
 button,
 .btn {
-  padding: 15px;
-  margin: 0 10px 10px 0;
-  display: inline-block;
-  border: 0px solid dimgrey;
-  background: dimgrey;
+  padding: 10px;
+  margin: 0px 0px 0px 0px;
+  display: grid;
+  border: 4px solid dimgrey;
+  background: lightgrey;
   color: whitesmoke;
   outline: none;
   transition: all 0.25s, transform 0.1s;
 }
 
+.fileButton{
+  color: dodgerblue;
+}
+
 button:hover,
 .btn:hover {
-  background: crimson;
+  background: dodgerblue;
   color: whitesmoke;
+  border: 4px solid dimgrey;
 }
 
 button:active,
 .btn:active {
-  background: crimson;
+  background: dodgerblue;
   transform: scale(0.8);
 }
 
@@ -135,8 +140,8 @@ select {
   padding: 15px;
   margin: 0 10px 10px 0px;
   border: 0px solid dimgrey;
-  background: dimgrey;
-  color: whitesmoke;
+  background: whitesmoke;
+  color: dimgrey;
   outline: none;
   transition: all 0.25s;
 }
@@ -145,7 +150,7 @@ select:hover {
 }
 
 select:focus {
-  background: crimson;
+  background: dodgerblue;
   color: whitesmoke;
 }
 select:focus::-webkit-input-placeholder {
@@ -163,7 +168,7 @@ select:focus:-moz-placeholder {
 
 a {
   box-sizing: border-box;
-  color: crimson;
+  color: dodgerblue;
   text-decoration: none;
   font-weight: 500;
 }
@@ -195,14 +200,14 @@ a:hover {
   height: 0px;
 }
 ::-webkit-scrollbar-thumb {
-  background: crimson;
+  background: dodgerblue;
   border-radius: 0px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: darken(crimson, 2%);
+  background: darken(dodgerblue, 2%);
 }
 ::-webkit-scrollbar-thumb:active {
-  box-shadow: inset 0px 0px 5px darken(crimson, 25%);
+  box-shadow: inset 0px 0px 5px darken(dodgerblue, 25%);
 }
 ::-webkit-scrollbar-track {
   background: lightgrey;
@@ -237,7 +242,7 @@ input[type="range"]::-webkit-slider-runnable-track {
   height: 8px;
   cursor: pointer;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-  background: #dc143c;
+  background: dodgerblue;
   border-radius: 20.1px;
   border: 0px solid #ffffff;
 }
@@ -252,14 +257,14 @@ input[type="range"]::-webkit-slider-thumb {
   margin-top: -6px;
 }
 input[type="range"]:focus::-webkit-slider-runnable-track {
-  background: #dc143c;
+  background: dodgerblue;
 }
 input[type="range"]::-moz-range-track {
   width: 100%;
   height: 8px;
   cursor: pointer;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-  background: #dc143c;
+  background: dodgerblue;
   border-radius: 20.1px;
   border: 0px solid #ffffff;
 }
@@ -280,13 +285,13 @@ input[type="range"]::-ms-track {
   color: transparent;
 }
 input[type="range"]::-ms-fill-lower {
-  background: #dc143c;
+  background: dodgerblue;
   border: 0px solid #ffffff;
   border-radius: 40.2px;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
 }
 input[type="range"]::-ms-fill-upper {
-  background: #dc143c;
+  background: dodgerblue;
   border: 0px solid #ffffff;
   border-radius: 40.2px;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
@@ -301,10 +306,10 @@ input[type="range"]::-ms-thumb {
   height: 8px;
 }
 input[type="range"]:focus::-ms-fill-lower {
-  background: #dc143c;
+  background: dodgerblue;
 }
 input[type="range"]:focus::-ms-fill-upper {
-  background: #dc143c;
+  background: dodgerblue;
 }
 input[type="range"] {
   -webkit-appearance: none;
@@ -319,7 +324,7 @@ input[type="range"]::-webkit-slider-runnable-track {
   height: 8px;
   cursor: pointer;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-  background: #dc143c;
+  background: dodgerblue;
   border-radius: 20.1px;
   border: 0px solid #ffffff;
 }
@@ -334,14 +339,14 @@ input[type="range"]::-webkit-slider-thumb {
   margin-top: -6px;
 }
 input[type="range"]:focus::-webkit-slider-runnable-track {
-  background: #dc143c;
+  background: dodgerblue;
 }
 input[type="range"]::-moz-range-track {
   width: 100%;
   height: 8px;
   cursor: pointer;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-  background: #dc143c;
+  background: dodgerblue;
   border-radius: 20.1px;
   border: 0px solid #ffffff;
 }
@@ -362,13 +367,13 @@ input[type="range"]::-ms-track {
   color: transparent;
 }
 input[type="range"]::-ms-fill-lower {
-  background: #dc143c;
+  background: dodgerblue;
   border: 0px solid #ffffff;
   border-radius: 40.2px;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
 }
 input[type="range"]::-ms-fill-upper {
-  background: #dc143c;
+  background: dodgerblue;
   border: 0px solid #ffffff;
   border-radius: 40.2px;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
@@ -383,10 +388,10 @@ input[type="range"]::-ms-thumb {
   height: 8px;
 }
 input[type="range"]:focus::-ms-fill-lower {
-  background: #dc143c;
+  background: dodgerblue;
 }
 input[type="range"]:focus::-ms-fill-upper {
-  background: #dc143c;
+  background: dodgerblue;
 }
 input[type="range"] {
   -webkit-appearance: none;
@@ -401,7 +406,7 @@ input[type="range"]::-webkit-slider-runnable-track {
   height: 8px;
   cursor: pointer;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-  background: #dc143c;
+  background: dodgerblue;
   border-radius: 20.1px;
   border: 0px solid #ffffff;
 }
@@ -416,14 +421,14 @@ input[type="range"]::-webkit-slider-thumb {
   margin-top: -6px;
 }
 input[type="range"]:focus::-webkit-slider-runnable-track {
-  background: #dc143c;
+  background: dodgerblue;
 }
 input[type="range"]::-moz-range-track {
   width: 100%;
   height: 8px;
   cursor: pointer;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-  background: #dc143c;
+  background: dodgerblue;
   border-radius: 20.1px;
   border: 0px solid #ffffff;
 }
@@ -444,13 +449,13 @@ input[type="range"]::-ms-track {
   color: transparent;
 }
 input[type="range"]::-ms-fill-lower {
-  background: #dc143c;
+  background: dodgerblue;
   border: 0px solid #ffffff;
   border-radius: 40.2px;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
 }
 input[type="range"]::-ms-fill-upper {
-  background: #dc143c;
+  background: dodgerblue;
   border: 0px solid #ffffff;
   border-radius: 40.2px;
   box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
@@ -465,12 +470,15 @@ input[type="range"]::-ms-thumb {
   height: 8px;
 }
 input[type="range"]:focus::-ms-fill-lower {
-  background: #dc143c;
+  background: dodgerblue;
 }
 input[type="range"]:focus::-ms-fill-upper {
-  background: #dc143c;
+  background: dodgerblue;
 }
 
+#export{
+  color: dodgerblue;
+}
 /*LAYOUT*/
 
 .box {
