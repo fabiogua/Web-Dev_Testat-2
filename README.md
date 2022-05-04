@@ -114,7 +114,7 @@ Install [XAMPP](https://www.apachefriends.org/de/index.html)
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Armin stinkt
+- [x] Armin stinkt
 - [ ] mySQL benutzen
 
 See the [open issues](https://github.com/fabiogua/Web-Dev_Testat-2/issues) for a full list of proposed features (and known issues).
