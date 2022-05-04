@@ -8,4 +8,5 @@
 	header('Location: '.$uri.'/Web-Dev_Testat-2/src/');
 	exit;
 ?>
+
 Something is wrong with the XAMPP installation :-(
