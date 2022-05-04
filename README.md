@@ -114,8 +114,10 @@ Install [XAMPP](https://www.apachefriends.org/de/index.html)
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Armin stinkt
-- [ ] mySQL benutzen
+- [ ] Template Gallerie
+- [ ] dynamische Textfelder einfügen
+- [ ] Text mit Bild epxportieren
+- [ ] Datenbank (Pfade)
 
 See the [open issues](https://github.com/fabiogua/Web-Dev_Testat-2/issues) for a full list of proposed features (and known issues).
 
